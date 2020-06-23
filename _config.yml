@@ -12,22 +12,27 @@ author: Shutter Project Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "https://shutter-project.org/about/"
+  About: 
+    - About Shutter: "https://shutter-project.org/about/"
     - The Team: "https://shutter-project.org/about/about-the-team/"
     - In the News: "https://shutter-project.org/about/in-the-news/"
-  Downloads: "https://shutter-project.org/downloads/"
+  Downloads: 
+    - Download Shutter: "https://shutter-project.org/downloads/"
     - Third Party Packages: "https://shutter-project.org/downloads/third-party-packages/"
     - Source Code: "https://shutter-project.org/downloads/source-code/"
     - Dependencies: "https://shutter-project.org/downloads/dependencies/"
-  FAQ & Help: "https://shutter-project.org/faq-help/"
+  FAQ & Help: 
+    - FAQ & Help for Shutter: "https://shutter-project.org/faq-help/"
     - PPA-Installation Guide: "https://shutter-project.org/faq-help/ppa-installation-guide/"
     - Shutter as Default: "https://shutter-project.org/faq-help/set-shutter-as-the-default-screenshot-tool/"
     - Upload to Flickr: "https://shutter-project.org/faq-help/upload-to-flickr/"
     - Man Page: "https://shutter-project.org/faq-help/man-page/"
-  Preview: "https://shutter-project.org/preview/"
+  Preview: 
+    - Preview of Shutter: "https://shutter-project.org/preview/"
     - Screenshots: "https://shutter-project.org/preview/screenshots/"
     - Screencasts: "https://shutter-project.org/preview/screencasts/"
-  Contribute: "https://shutter-project.org/contribute/"
+  Contribute: 
+    - Users: "https://shutter-project.org/contribute/"
     - Developers: "https://shutter-project.org/contribute/developers/"
   Contact: "https://shutter-project.org/contact/"
   Blog: "https://shutter-project.org/category/blog/"
