@@ -1,22 +1,36 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Shutter - Screenshot Tool 
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Shutter Project Team
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "https://shutter-project.org/about/"
+    - The Team: "https://shutter-project.org/about/about-the-team/"
+    - In the News: "https://shutter-project.org/about/in-the-news/"
+  Downloads: "https://shutter-project.org/downloads/"
+    - Third Party Packages: "https://shutter-project.org/downloads/third-party-packages/"
+    - Source Code: "https://shutter-project.org/downloads/source-code/"
+    - Dependencies: "https://shutter-project.org/downloads/dependencies/"
+  FAQ & Help: "https://shutter-project.org/faq-help/"
+    - PPA-Installation Guide: "https://shutter-project.org/faq-help/ppa-installation-guide/"
+    - Shutter as Default: "https://shutter-project.org/faq-help/set-shutter-as-the-default-screenshot-tool/"
+    - Upload to Flickr: "https://shutter-project.org/faq-help/upload-to-flickr/"
+    - Man Page: "https://shutter-project.org/faq-help/man-page/"
+  Preview: "https://shutter-project.org/preview/"
+    - Screenshots: "https://shutter-project.org/preview/screenshots/"
+    - Screencasts: "https://shutter-project.org/preview/screencasts/"
+  Contribute: "https://shutter-project.org/contribute/"
+    - Developers: "https://shutter-project.org/contribute/developers/"
+  Contact: "https://shutter-project.org/contact/"
+  Blog: "https://shutter-project.org/category/blog/"
 
 # --- Logo --- #
 
