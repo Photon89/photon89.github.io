@@ -13,7 +13,7 @@ author: Shutter Project Team
 
 navbar-links:
   About: 
-    - About Shutter: "https://shutter-project.org/about/"
+    - About Shutter: "about/about"
     - The Team: "https://shutter-project.org/about/about-the-team/"
     - In the News: "https://shutter-project.org/about/in-the-news/"
   Downloads: 
