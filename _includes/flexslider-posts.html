@@ -4,7 +4,7 @@
   	</div>
 	<div class="flexslider">
 		<ul class="slides">
-	  		{% for page in site.categories.blog %}
+	  		{% for page in site.posts %}
 	  		<li>
 	  			<a href="{{ site.url}}{{ page.permalink }}">
 		    		<img src="{{ page.image-slider }}">
