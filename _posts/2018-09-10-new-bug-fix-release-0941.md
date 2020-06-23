@@ -3,6 +3,7 @@ layout: post
 title: New bug fix release 0.94.1
 # subtitle: Excerpt from Soulshaping by Jeff Brown
 # cover-img: /assets/img/path.jpg
+permalink: /releases/0.94.1
 tags: [release-announcement]
 ---
 
