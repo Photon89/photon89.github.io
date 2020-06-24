@@ -36,17 +36,17 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
 
 #### Optional:
 
-  * libgtk2-appindicator-perl (since 0.89)
+  * libgtk2-appindicator-perl (since 0.89)  
   Adds support for Application Indicators
-  * libimage-exiftool-perl (since 0.87)
+  * libimage-exiftool-perl (since 0.87)  
   Enables Shutter to write Metadata (Orientation) when saving Jpeg-Files instead of simply rotating the image
-  * gnome-web-photo
+  * gnome-web-photo  
   Shutter uses gnome-web-photo to capture websites
-  * libgoo-canvas-perl
+  * libgoo-canvas-perl  
   Allows you to edit the screenshots directly using a built-in editor
-  * nautilus-sendto
+  * nautilus-sendto  
   Enables the “Send To…”-functionality in right-click menu and main menu (“Screenshot”)
-  * libnet-oauth-perl (since 0.93)
+  * libnet-oauth-perl (since 0.93)  
   Enables images upload to upload hosters using OAuth
 
 #### Not needed any more:
