@@ -2,7 +2,7 @@
 
 **Mario Kemper**, developer and project founder (retired in 2014)
 
-{% include image path="https://shutter-project.org/wp-content/uploads/me.jpg" id="mario-pic" %} I work as a consultant with focus on software quality assurance. You might want to have a look at my [interview](http://blog.launchpad.net/projects/shutter) at http://blog.launchpad.net to read more about the reasons and goals of the project.
+{% include image path="https://shutter-project.org/wp-content/uploads/me.jpg" id="mario-pic" %} I work as a consultant with focus on software quality assurance. You might want to have a look at my [interview at https://blog.launchpad.net](http://blog.launchpad.net/projects/shutter) to read more about the reasons and goals of the project.
 
 I am addicted to free software and community driven projects. In addition to modest abilities in C/C++, PHP, Java and some experiences with .NET languages I am mostly interested in Perl (Shutter is written in Perl as well) nowadays.
 
