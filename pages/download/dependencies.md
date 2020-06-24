@@ -51,10 +51,10 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
 
 #### Not needed any more:
 
-  * libgnome2-perl (No longer needed in versions >= 0.95)
-  * libgnome2-vfs-perl (No longer needed in versions >= 0.95)
-  * libgnome2-gconf-perl (No longer needed in versions >= 0.90)
+  * libgnome2-perl (no longer needed in versions >= 0.95)
+  * libgnome2-vfs-perl (no longer needed in versions >= 0.95)
+  * libgnome2-gconf-perl (no longer needed in versions >= 0.90)
   * libgtk2-trayicon-perl (only if you are using a gtk2 version lower than 2.10.x)
-  * libjson-xs-perl (No longer needed in versions >= 0.94.1)
-  * libnet-dropbox-api-perl (No longer needed in versions >= 0.92)
+  * libjson-xs-perl (no longer needed in versions >= 0.94.1)
+  * libnet-dropbox-api-perl (no longer needed in versions >= 0.92)
   * libnet-dbus-glib-perl (no longer needed since Ubuntu One has been closed)

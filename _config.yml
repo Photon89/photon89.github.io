@@ -15,7 +15,6 @@ navbar-links:
   About: 
     - About Shutter: "pages/about/about"
     - The Team: "pages/about/team"
-    - In the News: "https://shutter-project.org/about/in-the-news/"
   Downloads: 
     - Third Party Packages: "pages/download/third-party-packages"
     - Source Code: "pages/download/source-code"
