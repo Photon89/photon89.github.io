@@ -23,7 +23,6 @@ navbar-links:
   FAQ & Help: 
     - FAQ & Help for Shutter: "pages/help/faq"
     - Shutter as Default: "pages/help/shutter-as-default"
-    - Upload to Flickr: "pages/help/upload-to-flickr"
     - Man Page: "pages/help/man-page"
   Preview: 
     - Preview of Shutter: "https://shutter-project.org/preview/"

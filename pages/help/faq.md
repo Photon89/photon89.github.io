@@ -13,6 +13,5 @@
 
 ### See more help topics:
 
- * [Shutter as default](pages/help/shutter-as-default)
- * [Upload to Flickr](pages/help/upload-to-flickr)
- * [Man page](pages/help/man-page)
+ * [Shutter as default](shutter-as-default)
+ * [Man page](man-page)
