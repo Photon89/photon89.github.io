@@ -1,5 +1,5 @@
 <figure>
-   <a class="lightbox" href="#{{ include.id | default: "img" }}"">
+   <a class="lightbox" href="#{{ include.id | default: "img" }}">
       <img src="{{ include.path }}" alt="{{ include.alt | default: "" }}">
    </a>
    {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
