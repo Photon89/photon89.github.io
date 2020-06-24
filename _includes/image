@@ -1,6 +1,7 @@
-<figure class="{{ include.class | default: "" }}" style="float:left">
-   <a href="{{ include.url }}">
-      <img src="{{ include.path }}" alt="{{ include.alt | default: "" }}">
-   </a>
-   {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
-</figure>
+<a class="lightbox" href="#{{ include.id | default: "img" }}">
+   <img src="{{ include.path }}"/>
+</a>
+<div class="lightbox-target" id="{{ include.id | default: "img" }}">
+   <img src="{{ include.path }}"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
