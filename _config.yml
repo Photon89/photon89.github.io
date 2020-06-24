@@ -31,8 +31,8 @@ navbar-links:
     - Screenshots: "https://shutter-project.org/preview/screenshots/"
     - Screencasts: "https://shutter-project.org/preview/screencasts/"
   Contribute: 
-    - Users: "https://shutter-project.org/contribute/"
-    - Developers: "https://shutter-project.org/contribute/developers/"
+    - Users: "pages/contribute/users"
+    - Developers: "pages/contribute/developers"
   Contact: "https://shutter-project.org/contact/"
   Blog: "https://shutter-project.org/category/blog/"
 

@@ -6,7 +6,7 @@ Latest code snapshot:
 
 If you are interested in the latest snapshot you can checkout our [git repository at GitHub](https://github.com/shutter-project/shutter)
 
-To install the source code with standard prefix (/usr/local) run
+To install the source code with standard prefix (`/usr/local`) run
 
 ~~~
 make install
