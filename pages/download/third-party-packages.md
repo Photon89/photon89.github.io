@@ -16,7 +16,8 @@ You can install it by using the package manager or the following command:
 apt-get install shutter
 ~~~
 
-### Fedora
+
+#### Fedora
 
 Shutter is available in Fedora’s official repository, so just install it with:
 
@@ -27,7 +28,7 @@ yum install shutter
 Also, the most recent Shutter version can be installed using this [copr repository](https://copr.fedorainfracloud.org/coprs/mheffner/shutter/).
 
 
-### Gentoo
+#### Gentoo
 
 Shutter is included in [Gentoo Portage](https://packages.gentoo.org/packages/x11-misc/shutter), so just install it with:
 
@@ -35,23 +36,24 @@ Shutter is included in [Gentoo Portage](https://packages.gentoo.org/packages/x11
 emerge shutter
 ~~~
 
-### Linux Mint
+
+#### Linux Mint
 
 A description and reviews can be found [here](https://community.linuxmint.com/software/view/shutter). A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available.
 
-### Mageia
+#### Mageia
 
 A [package for Mageia](https://madb.mageia.org/package/show/name/shutter) is available.
 
-### openSUSE
+#### openSUSE
 
 A [package for openSUSE](https://software.opensuse.org/package/shutter) is available.
 
-### PCLinuxOS
+#### PCLinuxOS
 
 A [package for PCLinuxOS](https://pclinuxos.pkgs.org/rolling/pclinuxos-x86_64/shutter-0.94-1pclos2018.noarch.rpm.html) are available.
 
-### Red Hat Enterprise Linux (and Derivatives like CentOS, Scientific Linux etc.)
+#### Red Hat Enterprise Linux (and Derivatives like CentOS, Scientific Linux etc.)
 
 One of our users (Nux) provides a small repository for RHEL 7. The repository is designed to coexist with Fedora’s [EPEL repository](https://fedoraproject.org/wiki/EPEL/FAQ#What_is_EPEL.3F).
 In order to add those repos to your system and install Shutter you can use the following commands:
@@ -66,10 +68,10 @@ yum install shutter
 
 For RHEL 7 and 8 Shutter can be installed using snap following [these instructions](https://snapcraft.io/install/shutter/rhel).
 
-### Slackware
+#### Slackware
 
 A [package for Slackware](https://slackbuilds.org/repository/14.2/graphics/shutter/?search=shutter) is available.
 
-### Ubuntu
+#### Ubuntu
 
 A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available.
