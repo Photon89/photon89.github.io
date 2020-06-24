@@ -3,5 +3,6 @@
 </a>
 <div class="lightbox-target" id="{{ include.id | default: "img" }}">
    <img src="{{ include.path }}"/>
+   <p>{{ include.caption | default: "" }}</p>
    <a class="lightbox-close" href="#"></a>
 </div>

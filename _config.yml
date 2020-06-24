@@ -24,7 +24,7 @@ navbar-links:
     - Shutter as Default: "pages/help/shutter-as-default"
     - Man Page: "pages/help/man-page"
   Preview: 
-    - Screenshots: "https://shutter-project.org/preview/screenshots/"
+    - Screenshots: "pages/preview/screenshots"
     - Screencasts: "pages/preview/screencasts"
   Contribute: 
     - Users: "pages/contribute/users"
