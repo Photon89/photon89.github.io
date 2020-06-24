@@ -21,11 +21,10 @@ navbar-links:
     - Source Code: "pages/download/source-code"
     - Dependencies: "pages/download/dependencies/"
   FAQ & Help: 
-    - FAQ & Help for Shutter: "https://shutter-project.org/faq-help/"
-    - PPA-Installation Guide: "https://shutter-project.org/faq-help/ppa-installation-guide/"
-    - Shutter as Default: "https://shutter-project.org/faq-help/set-shutter-as-the-default-screenshot-tool/"
-    - Upload to Flickr: "https://shutter-project.org/faq-help/upload-to-flickr/"
-    - Man Page: "https://shutter-project.org/faq-help/man-page/"
+    - FAQ & Help for Shutter: "pages/help/faq"
+    - Shutter as Default: "pages/help/shutter-as-default"
+    - Upload to Flickr: "pages/help/upload-to-flickr"
+    - Man Page: "pages/help/man-page"
   Preview: 
     - Preview of Shutter: "https://shutter-project.org/preview/"
     - Screenshots: "https://shutter-project.org/preview/screenshots/"
