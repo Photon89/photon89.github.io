@@ -12,13 +12,17 @@ There are official Debian packages available in the oldstable and oldoldstable d
 
 You can install it by using the package manager or the following command:
 
+~~~
 apt-get install shutter
+~~~
 
 ### Fedora
 
 Shutter is available in Fedora’s official repository, so just install it with:
 
+~~~
 yum install shutter
+~~~
 
 Also, the most recent Shutter version can be installed using this [copr repository](https://copr.fedorainfracloud.org/coprs/mheffner/shutter/).
 
@@ -27,7 +31,9 @@ Also, the most recent Shutter version can be installed using this [copr reposito
 
 Shutter is included in [Gentoo Portage](https://packages.gentoo.org/packages/x11-misc/shutter), so just install it with:
 
+~~~
 emerge shutter
+~~~
 
 ### Linux Mint
 
@@ -50,11 +56,13 @@ A [package for PCLinuxOS](https://pclinuxos.pkgs.org/rolling/pclinuxos-x86_64/sh
 One of our users (Nux) provides a small repository for RHEL 7. The repository is designed to coexist with Fedora’s [EPEL repository](https://fedoraproject.org/wiki/EPEL/FAQ#What_is_EPEL.3F).
 In order to add those repos to your system and install Shutter you can use the following commands:
 
+~~~
 rpm -Uvh http://download.fedoraproject.org/pub/epel/7/i386/epel-release-7-8.noarch.rpm
 
 rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
 
 yum install shutter
+~~~
 
 For RHEL 7 and 8 Shutter can be installed using snap following [these instructions](https://snapcraft.io/install/shutter/rhel).
 
