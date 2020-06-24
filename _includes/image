@@ -1,4 +1,4 @@
-<figure class="{{ include.class | default: "" }}">
+<figure class="{{ include.class | default: "" }}" style="float:left">
    <a href="{{ include.url }}">
       <img src="{{ include.path }}" alt="{{ include.alt | default: "" }}">
    </a>
