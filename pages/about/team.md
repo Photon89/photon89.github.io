@@ -1,3 +1,5 @@
+### The Team
+
 **Mario Kemper**, developer and project founder
 
 {% include image path="https://shutter-project.org/wp-content/uploads/me.jpg" id="mario-pic" %} I work as a consultant with focus on software quality assurance. You might want to have a look at my [interview](http://blog.launchpad.net/projects/shutter) at http://blog.launchpad.net to read more about the reasons and goals of the project.
