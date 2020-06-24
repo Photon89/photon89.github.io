@@ -15,7 +15,7 @@ Shutter is a feature-rich screenshot program for Linux based operating systems s
 Shutter allows you to capture nearly anything on your screen without loosing control over your screenshots (tabbed interface). Here is an overview of what you can do with Shutter:
 
 * **Capture a Specific Area**  
-  This allows you to select an arbitrary region of your screen and capture only those parts you really need. Shutter offers two different tools to do so in order to meet any user’s taste.
+  This allows you to select an arbitrary region of your screen and capture only those parts you really need. The screen can be zoomed and the selection can be resized or moved.
 * **Capture your Desktop**  
   Shutter does not only capture all the contents of your desktop (or workspace) – it also supports Multi-monitor settings, e.g. capture the active monitor
 * **Capture a Window**  
