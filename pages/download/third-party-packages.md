@@ -8,9 +8,9 @@ A [package for Arch Linux](https://aur.archlinux.org/packages/shutter/) is avail
 
 #### Debian
 
-There are official Debian packages available in the oldstable and oldoldstable distrubution (Stretch and Jessie):
+There are [official Debian packages](https://packages.debian.org/search?keywords=shutter&searchon=names&suite=all&section=all) available in the oldstable and oldoldstable distrubution (Stretch and Jessie).
 
-You can install it by using the package manager or the following command:
+You can install Shutter by using the package manager or the following command:
 
 ~~~
 apt-get install shutter
