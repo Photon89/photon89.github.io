@@ -1,6 +1,6 @@
 <a class="lightbox" href="#{{ include.id | default: "img" }}">
    <img src="{{ include.path }}"/>
-   <p>{{ include.caption | default: "" }}</p>
+   <div class="lightbox-img-caption">{{ include.caption | default: "" }}</div>
 </a>
 <div class="lightbox-target" id="{{ include.id | default: "img" }}">
    <img src="{{ include.path }}"/>
