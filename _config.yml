@@ -30,7 +30,7 @@ navbar-links:
     - Users: "pages/contribute/users"
     - Developers: "pages/contribute/developers"
   Contact: "https://shutter-project.org/contact/"
-  Blog: "https://shutter-project.org/category/blog/"
+  Blog: "pages/blog"
 
 # --- Logo --- #
 
