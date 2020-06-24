@@ -11,6 +11,7 @@ a.lightbox img {
 
 .lightbox-figure {
 	width: 190px;
+	float: left;
 }
 
 .lightbox-caption {
