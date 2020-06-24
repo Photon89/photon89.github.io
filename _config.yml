@@ -19,7 +19,7 @@ navbar-links:
   Downloads: 
     - Third Party Packages: "pages/download/third-party-packages"
     - Source Code: "pages/download/source-code"
-    - Dependencies: "https://shutter-project.org/downloads/dependencies/"
+    - Dependencies: "pages/download/dependencies/"
   FAQ & Help: 
     - FAQ & Help for Shutter: "https://shutter-project.org/faq-help/"
     - PPA-Installation Guide: "https://shutter-project.org/faq-help/ppa-installation-guide/"

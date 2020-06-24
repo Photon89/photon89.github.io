@@ -1,6 +1,6 @@
 ### Source Code
 
-Latest source packages are available here. If you build a package for your distribution, please let us know – we’ll link to it.
+Latest source packages are available [here](https://github.com/shutter-project/shutter/releases/). If you build a package for your distribution, please let us know – we’ll link to it.
 
 Latest code snapshot:
 
